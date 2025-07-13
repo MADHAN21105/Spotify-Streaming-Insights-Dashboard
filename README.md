@@ -86,10 +86,6 @@ The dataset includes:
 ---
 
 ## 📸 Preview
-
-> Add dashboard screenshots in the `/Assets` folder and embed them below
-
-```md
-![Spotify Dashboard 1](Assets/Dashboard1.png)
+![Spotify Dashboard 1](https://github.com/MADHAN21105/Spotify-Streaming-Insights-Dashboard/blob/main/Spotify%20Streaming%20Insights%20Dashboard.png)
 ![Spotify Dashboard 2](Assets/Dashboard2.png)
 
